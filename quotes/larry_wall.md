@@ -1,0 +1,1 @@
+Alan Curtis Kay (born 17 May 1940) is an American computer scientist best known for his pioneering work on object-oriented programming and windowing graphical user interface design.
